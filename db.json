@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "name": "spn6",
+      "img": "http://localhost:5173/src/img/image%205.jpg",
+      "price": "123",
+      "desc": "yyyyyyyyyy"
+    },
+    {
+      "id": "11",
+      "name": "qweqwe",
+      "img": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/10/hinh-ve-cute-50.jpg",
+      "price": "4444444",
+      "desc": "rrrrrrrrrrrrrrrrrrrrr"
+    },
+    {
+      "id": "c98d",
+      "name": "vũ thị miền ",
+      "img": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/10/hinh-ve-cute-50.jpg",
+      "price": "900000",
+      "desc": "rrrrrrrrrrrrrrrrrrrrr"
+    }
+  ],
+  "User": [
+    {
+      "id": "1",
+      "email": "user1@example.com",
+      "password": "password1"
+    },
+    {
+      "id": "daa1",
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ]
+}
